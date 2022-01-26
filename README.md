@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/agarwalpragya_?style=social)](https://twitter.com/agarwalpragya_) 
 [![GitHub](https://img.shields.io/github/followers/agarwalpragya?style=social)](https://github.com/agarwalpragya)
 
-<h3>Hi! I am Pragya Agarwal. Experienced software developer with experience in web application development. I have diverse experience working at a Multinational company, a government organization and a NGO. And, I am currently pursuing Masters in Computer Science from University of Texas at Arlington.</h3>
+<h3>Hi! I am Pragya Agarwal. Experienced software developer with experience in web application development. I have diverse experience working at a Multinational company and a government organization. I am currently pursuing Masters in Computer Science from University of Texas at Arlington,USA.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
